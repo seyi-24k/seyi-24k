@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @seyi-24k
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently learning Bash & Scripting, Linux, Networking, CI/CD
+- 💞️ I’m looking to collaborate with like-minded people
+- 📫 How to reach me 
+- ⚡ Fun fact: I'm a fan of Anime
